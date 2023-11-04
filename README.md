@@ -16,14 +16,14 @@
 ## 📊 My Workflow
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kof70&show_icons=true&theme=dark&bg_color=112,128,144"
+    srcset="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=dark&bg_color=86,61,124"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vkof70&show_icons=true&bg_color=112,128,144"
+    srcset="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&bg_color=86,61,124"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=kof70&show_icons=true&bg_color=112,128,144" />
+  <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&bg_color=86,61,124" />
 </picture>
 
 ## 🛠️ Languages and Tools
