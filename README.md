@@ -10,13 +10,12 @@
 
 <h2> Welcome to my GitHub Profile! </h2>
 
-- 🚀 Passionate about building innovative solutions.
+- 🚀 Passionate about building innovative solutions.          ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 - 💻 Software Engineer and IT & Network Maintenance Specialist.
 
 ## 📊 My Workflow
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=votre-nom-d-utilisateur&count_private=true&show_icons=true&title_color=2f80ed&text_color=586e75&icon_color=6f42c1&bg_color=45,25,75,125,150,175,200&border_radius=4.5)]()
+![WassCodeur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kof70&theme=github-compact)
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -24,3 +23,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+
+[![](https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
