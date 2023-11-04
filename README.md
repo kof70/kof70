@@ -14,17 +14,8 @@
 - 💻 Software Engineer and IT & Network Maintenance Specialist.
 
 ## 📊 My Workflow
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=dark&bg_color=46,139,87&title_color=000000&text_color=000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&bg_color=46,139,87&title_color=000000&text_color=000000"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&bg_color=46,139,87&title_color=000000&text_color=000000" />
-</picture>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?kof70=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?kof70=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
