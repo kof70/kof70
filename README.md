@@ -16,7 +16,7 @@
 ## 📊 My Workflow
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&show_icons=true&title_color=70,130,180&text_color=85,107,47&icon_color=128,128,0&bg_color=45,25,75,125,150,175,200&border_radius=4.5)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=votre-nom-d-utilisateur&count_private=true&show_icons=true&title_color=2f80ed&text_color=586e75&icon_color=6f42c1&bg_color=45,25,75,125,150,175,200&border_radius=4.5)]()
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
