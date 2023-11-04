@@ -14,8 +14,8 @@
 - 💻 Software Engineer and IT & Network Maintenance Specialist.
 
 ## 📊 My Workflow
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?kof70=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?kof70=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&langs_count=5&theme=tokyonight)]()
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
