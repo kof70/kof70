@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Djakpa koffi Alias " Kof " </h1>
+<h1 align="center">👋 Hello! I'm Djakpa koffi Alias "Kof" </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/koffi-djakpa-46a40a275/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
