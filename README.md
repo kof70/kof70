@@ -14,7 +14,7 @@
 - 💻 Software Engineer and IT & Network Maintenance Specialist.
 
 ## 📊 My Workflow
-![Workflow](https://img.shields.io/badge/Workflow-Graph-<COLOR>?style=flat)
+[![Kof's GitHub stats](https://github-readme-stats.vercel.app/api?username=kof70&show_icons=true&theme=radical&bg_color=36A2AF,6A5ACD)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
