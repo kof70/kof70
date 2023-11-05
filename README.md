@@ -10,9 +10,8 @@
 
 <h2> Welcome to my GitHub Profile! </h2>
 
-- 🚀 Passionate about building innovative solutions.          ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-- 💻 Software Engineer and IT & Network Maintenance Specialist.
-- 
+- 🚀 Passionate about building innovative solutions.          ![]()
+- 💻 Software Engineer and IT & Network Maintenance Specialist. 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ## 📊 My Workflow
