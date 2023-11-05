@@ -13,6 +13,7 @@
 - 🚀 Passionate about building innovative solutions.          ![]()
 - 💻 Software Engineer and IT & Network Maintenance Specialist. 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
+
 ## 📊 My Workflow
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
 ![WassCodeur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kof70&theme=github-compact)
