@@ -12,6 +12,8 @@
 
 - 🚀 Passionate about building innovative solutions.          ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 - 💻 Software Engineer and IT & Network Maintenance Specialist.
+- 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kof70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ## 📊 My Workflow
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
@@ -25,4 +27,4 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 
-[![](https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
