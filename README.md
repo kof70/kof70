@@ -26,6 +26,4 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 
-<div align="right">
-  [![](https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-</div>
+<img align="right" src="https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=true">
