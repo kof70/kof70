@@ -16,7 +16,7 @@
 
 ## 📊 My Workflow
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kof70&count_private=true&theme=tokyonight&showicons=true)]()
-#![WassCodeur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kof70&theme=github-compact)
+[![An image of @kof70's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kof70)](https://holopin.io/@kof70)![WassCodeur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kof70&theme=github-compact)
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
